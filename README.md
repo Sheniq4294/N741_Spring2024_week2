@@ -2,6 +2,9 @@
 
 N741_Spring2024_week2
 
+La-Urshalar's Copy
+Add_Commit_Push
+
 ## Slides for Today
 
 * [Intro to R Code](https://melindahiggins2000.github.io/RWorkshops_HJFGlobal_AugSept2023/HJF_Rworkshop_08242023_pt1.html#21)
